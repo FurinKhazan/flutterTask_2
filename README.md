@@ -1,6 +1,6 @@
 # task_2
 
-A new Flutter application.
+A new Flutter application for udacoding's task 2
 
 ## Getting Started
 
